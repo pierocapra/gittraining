@@ -12,3 +12,8 @@ h5 {
     color: rgb(36, 31, 31);
     font-size: 44px;
 } 
+
+.city {
+    font-size: large;
+    color: green;
+}
